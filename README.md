@@ -30,8 +30,6 @@ To understand where a retail business's sales come from and when: which categori
 
 ## Dashboard
 
-![Dashboard]
-
 A single-page dashboard with:
 - **KPI cards:** Total Sales, Total Orders, Average Order Value, Top Category, Peak Month
 - **Monthly Sales by Category:** clustered column PivotChart comparing the three categories across all 12 months
